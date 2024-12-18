@@ -704,3 +704,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 01:49:04.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
 [18Dec2024 01:50:28.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [The Floor is Tears]
 [18Dec2024 01:51:22.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has completed the challenge [Return to Sender]
+[18Dec2024 02:03:15.843] [Server thread/WARN] [tombstone/]: The death event of the player Capybara_Zzz was canceled by another mod
+[18Dec2024 02:03:15.852] [Server thread/INFO] [tombstone/]: The player Capybara_Zzz has successfully been saved
+[18Dec2024 02:03:25.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz fell from a high place
+[18Dec2024 02:04:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Straddle My Ol' Saddle]

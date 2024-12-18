@@ -7670,3 +7670,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 01:59:45.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 01:59:45.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 02:00:28.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 02:00:55.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 02:03:15.843] [Server thread/WARN] [tombstone/]: The death event of the player Capybara_Zzz was canceled by another mod
+[18Dec2024 02:03:15.852] [Server thread/INFO] [tombstone/]: The player Capybara_Zzz has successfully been saved
+[18Dec2024 02:03:25.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz fell from a high place
+[18Dec2024 02:03:25.732] [Server thread/DEBUG] [tombstone/]: A new grave of the player Capybara_Zzz was created at position [x:-218, y:93, z:390, dim:minecraft:the_nether]
+[18Dec2024 02:03:27.594] [Server thread/DEBUG] [twilightforest/]: Player Capybara_Zzz (0f8ecc57-993c-3af4-b874-e12b61568fc1) respawned and received items held in storage
+[18Dec2024 02:04:03.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 02:04:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Straddle My Ol' Saddle]
+[18Dec2024 02:04:03.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 02:04:05.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 02:04:45.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:04:45.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:09:45.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:09:45.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
