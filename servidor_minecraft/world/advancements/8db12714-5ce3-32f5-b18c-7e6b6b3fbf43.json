@@ -214,6 +214,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "blaze_head": "2024-12-18 03:00:23 +0000",
       "cave_spider_head": "2024-12-17 20:44:03 +0000"
     },
     "done": false
@@ -376,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-18 02:58:11 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
       "requirement": "2024-12-18 02:51:15 +0000"
@@ -403,6 +410,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-18 02:44:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2024-12-18 02:57:46 +0000"
     },
     "done": true
   },

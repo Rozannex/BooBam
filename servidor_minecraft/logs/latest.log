@@ -660,3 +660,10 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [18Dec2024 02:58:25.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Hot Stuff]
 [18Dec2024 02:59:42.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7189, l='ServerLevel[world]', x=-218.40, y=34.00, z=471.03] died: Pipeline Sentry was slain by enderg39
 [18Dec2024 03:00:22.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7188, l='ServerLevel[world]', x=-215.30, y=34.00, z=472.30] died: Pipeline Sentry was slain by Capybara_Zzz
+[18Dec2024 03:01:08.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7187, l='ServerLevel[world]', x=-215.37, y=35.20, z=482.24] died: Pipeline Sentry was slain by Capybara_Zzz
+[18Dec2024 03:02:17.028] [Server thread/WARN] [tombstone/]: The death event of the player Capybara_Zzz was canceled by another mod
+[18Dec2024 03:02:17.108] [Server thread/INFO] [tombstone/]: The player Capybara_Zzz has successfully been saved
+[18Dec2024 03:17:19.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1417, y=68, z=2523} BlockPos{x=-1419, y=68, z=2523}
+[18Dec2024 03:18:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [The Parrots and the Bats]
+[18Dec2024 03:30:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> nuke
+[18Dec2024 03:30:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> !!!!!

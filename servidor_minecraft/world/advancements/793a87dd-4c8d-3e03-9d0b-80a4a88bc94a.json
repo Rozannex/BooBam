@@ -132,6 +132,7 @@
       "pasture": "2024-12-17 03:31:45 +0000",
       "rocky_rainforest": "2024-12-17 04:23:37 +0000",
       "volcanic_plains": "2024-12-18 00:47:53 +0000",
+      "lavender_field": "2024-12-18 03:01:22 +0000",
       "prairie": "2024-12-17 03:09:56 +0000",
       "grassland": "2024-12-18 01:48:14 +0000",
       "glowing_grotto": "2024-12-17 23:22:09 +0000",
@@ -237,7 +238,9 @@
       "minecraft:skeleton": "2024-12-17 21:14:48 +0000",
       "minecraft:spider": "2024-12-17 03:39:36 +0000",
       "minecraft:creeper": "2024-12-17 03:58:37 +0000",
-      "minecraft:zombie": "2024-12-17 03:40:01 +0000"
+      "minecraft:phantom": "2024-12-18 03:07:53 +0000",
+      "minecraft:zombie": "2024-12-17 03:40:01 +0000",
+      "minecraft:drowned": "2024-12-18 03:07:33 +0000"
     },
     "done": false
   },
@@ -376,6 +379,18 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2024-12-18 01:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2024-12-18 03:18:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-18 03:18:30 +0000"
     },
     "done": true
   },
