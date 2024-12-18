@@ -620,3 +620,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 04:50:06.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Bring Out Your Dead]
 [18Dec2024 04:50:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Back to childhood]
 [18Dec2024 04:50:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Not even afraid of death]
+[18Dec2024 04:51:24.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Banner Pattern] to Capybara_Zzz]
+[18Dec2024 04:53:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [With Fire It Writes]
+[18Dec2024 04:57:26.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8576, y=7, z=18364} BlockPos{x=-8576, y=6, z=18364}
+[18Dec2024 04:57:30.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8561, y=4, z=18363} BlockPos{x=-8561, y=3, z=18363}
+[18Dec2024 04:57:37.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8532, y=4, z=18383} BlockPos{x=-8533, y=3, z=18383}
+[18Dec2024 04:57:38.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8529, y=4, z=18382} BlockPos{x=-8530, y=3, z=18382}
+[18Dec2024 04:57:40.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8521, y=4, z=18386} BlockPos{x=-8521, y=3, z=18385}
+[18Dec2024 04:57:41.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8530, y=4, z=18388} BlockPos{x=-8529, y=3, z=18388}
+[18Dec2024 04:59:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Teleported enderg39 to -9766.500000, 7.000000, 20652.500000]
+[18Dec2024 05:03:31.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enderg39 lost connection: Disconnected
+[18Dec2024 05:03:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 left the game
+[18Dec2024 05:03:31.391] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client enderg39
+[18Dec2024 05:14:50.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of st_Div) moved too quickly! 2.8599090428403997,0.0,9.975344986074106
+[18Dec2024 05:14:50.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of st_Div) moved too quickly! 2.954514868793467,0.0,10.36375239585459
+[18Dec2024 05:16:06.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Ice Bucket Challenge]
+[18Dec2024 05:17:49.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[18Dec2024 05:17:49.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[18Dec2024 05:17:49.646] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Capybara_Zzz
