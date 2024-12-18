@@ -643,6 +643,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 03:41:15 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2024-12-18 02:49:27 +0000"

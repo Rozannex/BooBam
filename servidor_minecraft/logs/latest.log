@@ -667,3 +667,12 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [18Dec2024 03:18:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [The Parrots and the Bats]
 [18Dec2024 03:30:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> nuke
 [18Dec2024 03:30:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> !!!!!
+[18Dec2024 03:32:26.554] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[18Dec2024 03:32:26.570] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[18Dec2024 03:32:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div was blown up by Creeper
+[18Dec2024 03:32:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has reached the goal [A Fast Comeback]
+[18Dec2024 03:37:24.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1230, y=127, z=2592} BlockPos{x=-1230, y=126, z=2593}
+[18Dec2024 03:41:14.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1178, y=111, z=2582} BlockPos{x=-1178, y=110, z=2582}
+[18Dec2024 03:41:15.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/16248, l='ServerLevel[world]', x=-1390.54, y=64.50, z=2482.20] died, message: 'Librarian was slain by Capybara_Zzz'
+[18Dec2024 03:41:15.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Neighborhood Brawl]
+[18Dec2024 03:41:15.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1175, y=111, z=2580} BlockPos{x=-1174, y=110, z=2580}
