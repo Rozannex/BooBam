@@ -565,3 +565,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 16:38:49.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Capybara_Zzz (18)
 [18Dec2024 16:38:49.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Capybara_Zzz
 [18Dec2024 16:38:49.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2722ms or 54 ticks behind
+[18Dec2024 17:00:34.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Timed out
+[18Dec2024 17:00:34.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[18Dec2024 17:00:34.401] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Capybara_Zzz
+[18Dec2024 17:01:06.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.232.133.134:32813] logged in with entity id 4756 at (-1379.4332933790151, 80.0, 2462.100358774272)
+[18Dec2024 17:01:06.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[18Dec2024 17:01:07.427] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Capybara_Zzz (18)
+[18Dec2024 17:01:07.429] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Capybara_Zzz
+[18Dec2024 17:02:00.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [What a Deal!]
+[18Dec2024 17:03:01.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[18Dec2024 17:03:01.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[18Dec2024 17:03:01.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Capybara_Zzz
