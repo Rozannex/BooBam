@@ -5689,3 +5689,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 06:48:10.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/6222, l='ServerLevel[world]', x=-4577.93, y=64.00, z=4120.49] died, message: 'Nitwit was slain by Zombie Villager'
 [18Dec2024 06:49:54.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6128, l='ServerLevel[world]', x=-4687.42, y=69.00, z=4151.55] died, message: 'Villager was slain by Zombie'
 [18Dec2024 06:49:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Backpack Tank] to st_Div]
+[18Dec2024 06:50:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 64 [Emerald] to st_Div]
+[18Dec2024 06:51:29.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:51:29.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:55:39.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Diamond Pickaxe] to st_Div]
+[18Dec2024 06:56:29.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:56:29.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:57:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Crafting Upgrade] to st_Div]
+[18Dec2024 06:58:52.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Iron Tier Upgrade] to st_Div]
