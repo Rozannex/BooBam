@@ -109,10 +109,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-17 02:29:14 +0000",
+      "minecraft:ghast": "2024-12-18 01:51:22 +0000",
       "minecraft:spider": "2024-12-17 01:57:06 +0000",
       "minecraft:creeper": "2024-12-17 02:01:25 +0000",
       "minecraft:slime": "2024-12-18 01:45:48 +0000",
       "quark:forgotten": "2024-12-17 20:29:59 +0000",
+      "minecraft:phantom": "2024-12-18 01:59:01 +0000",
       "minecraft:witch": "2024-12-17 21:20:26 +0000",
       "minecraft:cave_spider": "2024-12-17 20:31:07 +0000",
       "minecraft:piglin": "2024-12-18 01:44:55 +0000",
@@ -470,6 +472,18 @@
     },
     "done": false
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-18 01:51:22 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2024-12-18 01:55:39 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-18 01:47:02 +0000"
@@ -485,6 +499,12 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2024-12-18 01:41:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2024-12-18 01:50:28 +0000"
     },
     "done": true
   },
