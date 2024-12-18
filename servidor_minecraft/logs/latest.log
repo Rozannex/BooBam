@@ -557,3 +557,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 05:48:33.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the game
 [18Dec2024 05:48:34.786] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of st_Div (18)
 [18Dec2024 05:48:34.790] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to st_Div
+[18Dec2024 06:10:08.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [You Monster...]
+[18Dec2024 06:10:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Diamonds!]

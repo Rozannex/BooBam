@@ -137,6 +137,7 @@
       "overgrown_greens": "2024-12-17 02:23:31 +0000",
       "mediterranean_forest": "2024-12-17 21:29:01 +0000",
       "forested_field": "2024-12-18 05:29:20 +0000",
+      "spider_nest": "2024-12-18 06:02:10 +0000",
       "redwood_forest": "2024-12-17 02:07:18 +0000",
       "volcano": "2024-12-17 04:24:18 +0000",
       "pasture": "2024-12-17 03:31:45 +0000",
@@ -251,6 +252,7 @@
       "minecraft:spider": "2024-12-17 03:39:36 +0000",
       "minecraft:creeper": "2024-12-17 03:58:37 +0000",
       "minecraft:phantom": "2024-12-18 03:07:53 +0000",
+      "minecraft:cave_spider": "2024-12-18 06:06:22 +0000",
       "minecraft:zombie": "2024-12-17 03:40:01 +0000",
       "minecraft:drowned": "2024-12-18 03:07:33 +0000"
     },
@@ -433,6 +435,18 @@
   "aether:read_lore": {
     "criteria": {
       "lore_book_entry": "2024-12-18 04:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 06:10:16 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-18 06:10:08 +0000"
     },
     "done": true
   },
