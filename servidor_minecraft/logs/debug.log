@@ -5697,3 +5697,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 06:56:29.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 06:57:25.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Crafting Upgrade] to st_Div]
 [18Dec2024 06:58:52.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Iron Tier Upgrade] to st_Div]
+[18Dec2024 07:01:29.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 07:01:29.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 07:01:36.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Diamond Axe] to st_Div]
+[18Dec2024 07:02:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 64 [Leather] to st_Div]
+[18Dec2024 07:03:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 1 [Backpack Tank] to st_Div]
+[18Dec2024 07:04:54.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [st_Div: Gave 34 [Gold Ingot] to st_Div]
+[18Dec2024 07:05:21.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6106, l='ServerLevel[world]', x=-4584.35, y=64.00, z=4122.01] died, message: 'Villager was slain by Zombie'
+[18Dec2024 07:06:14.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/6100, l='ServerLevel[world]', x=-4687.42, y=66.00, z=4112.50] died, message: 'Nitwit was slain by Zombie'
+[18Dec2024 07:06:29.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 07:06:29.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 07:07:37.161] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6118, l='ServerLevel[world]', x=-4688.81, y=73.00, z=4151.70] died, message: 'Villager was slain by Zombie'
+[18Dec2024 07:07:40.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6127, l='ServerLevel[world]', x=-4686.34, y=73.00, z=4152.21] died, message: 'Villager was slain by Zombie'
