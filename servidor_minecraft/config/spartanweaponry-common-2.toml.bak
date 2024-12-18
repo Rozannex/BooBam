@@ -1,14 +1,4 @@
-explosives = {}
-
-[copper]
-	#Base Damage for copper weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 1.5
-	#Durability for copper weapons
-	#Range: 1 ~ 100000
-	durability = 200
-	#Set to true to disable copper weapons
-	disable = false
+silver = {}
 
 [dagger]
 	#Disables all recipes for all Daggers.
@@ -342,6 +332,16 @@ explosives = {}
 	#Range: 0.1 ~ 10.0
 	damage_multiplier = 1.0
 
+[copper]
+	#Base Damage for copper weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Durability for copper weapons
+	#Range: 1 ~ 100000
+	durability = 200
+	#Set to true to disable copper weapons
+	disable = false
+
 [tin]
 	#Base Damage for tin weapons
 	#Range: 0.1 ~ 100.0
@@ -370,85 +370,5 @@ explosives = {}
 	#Range: 1 ~ 100000
 	durability = 480
 	#Set to true to disable steel weapons
-	disable = false
-
-[silver]
-	#Base Damage for silver weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 1.5
-	#Durability for silver weapons
-	#Range: 1 ~ 100000
-	durability = 48
-	#Set to true to disable silver weapons
-	disable = false
-
-[electrum]
-	#Base Damage for electrum weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.0
-	#Durability for electrum weapons
-	#Range: 1 ~ 100000
-	durability = 180
-	#Set to true to disable electrum weapons
-	disable = false
-
-[lead]
-	#Base Damage for lead weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.0
-	#Durability for lead weapons
-	#Range: 1 ~ 100000
-	durability = 240
-	#Set to true to disable lead weapons
-	disable = false
-
-[nickel]
-	#Base Damage for nickel weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.0
-	#Durability for nickel weapons
-	#Range: 1 ~ 100000
-	durability = 200
-	#Set to true to disable nickel weapons
-	disable = false
-
-[invar]
-	#Base Damage for invar weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.25
-	#Durability for invar weapons
-	#Range: 1 ~ 100000
-	durability = 440
-	#Set to true to disable invar weapons
-	disable = false
-
-[constantan]
-	#Base Damage for constantan weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.25
-	#Durability for constantan weapons
-	#Range: 1 ~ 100000
-	durability = 300
-	#Set to true to disable constantan weapons
-	disable = false
-
-[platinum]
-	#Base Damage for platinum weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 3.5
-	#Durability for platinum weapons
-	#Range: 1 ~ 100000
-	durability = 1024
-	#Set to true to disable platinum weapons
-	disable = false
-
-[aluminum]
-	#Base Damage for aluminum weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.125
-	#Durability for aluminum weapons
-	#Range: 1 ~ 100000
-	durability = 400
-	#Set to true to disable aluminum weapons
 	disable = false
 
