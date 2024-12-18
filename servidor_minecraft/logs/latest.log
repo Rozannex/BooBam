@@ -591,3 +591,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 00:30:34.954] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roxanne711 (18)
 [18Dec2024 00:30:34.955] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roxanne711
 [18Dec2024 00:33:24.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7972ms or 159 ticks behind
+[18Dec2024 00:40:28.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [A Seedy Place]
+[18Dec2024 00:46:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> ZZZZZZZZZZZZZZZZZZZZ
+[18Dec2024 00:48:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Incendium]
+[18Dec2024 00:48:50.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [We Need to Go Deeper]
+[18Dec2024 00:48:53.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9463ms or 189 ticks behind
+[18Dec2024 00:48:56.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Incendium]
+[18Dec2024 00:48:56.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [We Need to Go Deeper]
