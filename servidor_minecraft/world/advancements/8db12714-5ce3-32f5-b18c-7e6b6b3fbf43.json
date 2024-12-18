@@ -177,6 +177,7 @@
       "minecraft:skeleton": "2024-12-17 20:34:51 +0000",
       "minecraft:spider": "2024-12-17 23:24:40 +0000",
       "minecraft:creeper": "2024-12-17 21:09:50 +0000",
+      "minecraft:witch": "2024-12-18 04:14:29 +0000",
       "minecraft:cave_spider": "2024-12-17 21:09:52 +0000",
       "minecraft:zombie": "2024-12-17 20:32:33 +0000"
     },
@@ -377,41 +378,41 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "lava_bucket": "2024-12-18 02:58:11 +0000"
+      "coded_trigger": "2024-12-18 02:23:55 +0000"
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/unlimited_power": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "requirement": "2024-12-18 02:51:15 +0000"
+      "coded_trigger": "2024-12-18 02:30:37 +0000"
     },
     "done": true
   },
-  "spartanweaponry:dagger": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "has_dagger": "2024-12-18 03:47:03 +0000"
+      "coded_trigger": "2024-12-18 02:31:20 +0000"
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/root": {
+  "tombstone:adventure/choose_grave_type": {
     "criteria": {
-      "requirement": "2024-12-18 02:49:49 +0000"
+      "coded_trigger": "2024-12-18 02:32:02 +0000"
     },
     "done": true
   },
-  "spartanweaponry:parrying_dagger": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_parrying_dagger": "2024-12-18 03:49:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:basalt_deltas": "2024-12-18 02:44:48 +0000"
+      "minecraft:cow": "2024-12-18 02:41:45 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-18 02:41:45 +0000"
+    },
+    "done": true
   },
   "incendium:root": {
     "criteria": {
@@ -425,9 +426,27 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "requirement": "2024-12-18 02:57:46 +0000"
+      "entered_nether": "2024-12-18 02:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-18 02:44:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2024-12-18 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2024-12-18 02:51:15 +0000"
     },
     "done": true
   },
@@ -437,33 +456,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
     "criteria": {
-      "coded_trigger": "2024-12-18 02:30:37 +0000"
+      "requirement": "2024-12-18 02:57:46 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "minecraft:cow": "2024-12-18 02:41:45 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/mysterious_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-18 02:23:55 +0000"
+      "lava_bucket": "2024-12-18 02:58:11 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "spartanweaponry:dagger": {
     "criteria": {
-      "entered_nether": "2024-12-18 02:44:47 +0000"
+      "has_dagger": "2024-12-18 03:47:03 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/choose_grave_type": {
+  "spartanweaponry:parrying_dagger": {
     "criteria": {
-      "coded_trigger": "2024-12-18 02:32:02 +0000"
+      "has_parrying_dagger": "2024-12-18 03:49:42 +0000"
     },
     "done": true
   },
@@ -473,17 +486,29 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "bred": "2024-12-18 02:41:45 +0000"
+      "enchanted_item": "2024-12-18 04:01:31 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "spartanweaponry:scythe": {
     "criteria": {
-      "coded_trigger": "2024-12-18 02:31:20 +0000"
+      "has_scythe": "2024-12-18 04:03:06 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:14:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-18 04:16:28 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

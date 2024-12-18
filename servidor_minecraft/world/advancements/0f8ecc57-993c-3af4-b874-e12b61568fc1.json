@@ -625,6 +625,30 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2024-12-18 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2024-12-18 02:52:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2024-12-18 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-18 02:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-18 02:58:24 +0000"
@@ -634,12 +658,6 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-18 02:58:25 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/unlimited_power": {
-    "criteria": {
-      "requirement": "2024-12-18 02:52:02 +0000"
     },
     "done": true
   },
@@ -655,27 +673,9 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/root": {
-    "criteria": {
-      "requirement": "2024-12-18 02:49:27 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:parrying_dagger": {
     "criteria": {
       "has_parrying_dagger": "2024-12-18 03:48:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-18 02:58:21 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/kill_sentry": {
-    "criteria": {
-      "requirement": "2024-12-18 02:52:24 +0000"
     },
     "done": true
   },
