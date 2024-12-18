@@ -661,3 +661,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 01:18:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
 [18Dec2024 01:18:52.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Capybara_Zzz (18)
 [18Dec2024 01:18:52.195] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Capybara_Zzz
+[18Dec2024 01:22:32.479] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 01:22:32.512] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 01:22:47.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 was slain by Zombie
+[18Dec2024 01:23:31.725] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[18Dec2024 01:23:31.733] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[18Dec2024 01:23:36.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[18Dec2024 01:23:36.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[18Dec2024 01:23:36.227] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Capybara_Zzz
+[18Dec2024 01:23:36.279] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 01:23:43.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.232.133.134:55195] logged in with entity id 24851 at (-1152.3550341875193, 112.0, 2643.5456501847993)
+[18Dec2024 01:23:43.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[18Dec2024 01:23:44.592] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Capybara_Zzz (18)
+[18Dec2024 01:23:44.593] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Capybara_Zzz
+[18Dec2024 01:29:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Hostile Paradise]
+[18Dec2024 01:33:50.129] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[18Dec2024 01:33:50.135] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[18Dec2024 01:36:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Incendium]
+[18Dec2024 01:36:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [We Need to Go Deeper]
+[18Dec2024 01:36:04.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
+[18Dec2024 01:36:17.686] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[18Dec2024 01:36:17.693] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[18Dec2024 01:41:21.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Radioactive]
+[18Dec2024 01:44:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Traveling lightning rod]
+[18Dec2024 01:45:46.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Toxic Personality]
+[18Dec2024 01:45:48.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/34489, l='ServerLevel[world]', x=-489.39, y=74.31, z=826.88] died: Toxic Slime was slain by Capybara_Zzz
+[18Dec2024 01:45:58.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Strange Biomes]
+[18Dec2024 01:45:58.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [The Dust Settles]
+[18Dec2024 01:47:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Nightmare Fuel]
+[18Dec2024 01:47:17.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Hellish Paradise]
+[18Dec2024 01:47:29.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[18Dec2024 01:47:29.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[18Dec2024 01:47:29.695] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roxanne711
+[18Dec2024 01:48:24.935] [Server thread/WARN] [tombstone/]: The death event of the player Capybara_Zzz was canceled by another mod
+[18Dec2024 01:48:24.949] [Server thread/INFO] [tombstone/]: The player Capybara_Zzz has successfully been saved
+[18Dec2024 01:48:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Strong or Careful]
+[18Dec2024 01:48:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz blew up
+[18Dec2024 01:48:53.944] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Capybara_Zzz with unique ID travelersbackpack.diamond_18.12.2024-01.48.53.dat
+[18Dec2024 01:48:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Your First Grave]
+[18Dec2024 01:48:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [The Most Useful Key]
+[18Dec2024 01:49:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [A Fast Comeback]
+[18Dec2024 01:49:04.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
