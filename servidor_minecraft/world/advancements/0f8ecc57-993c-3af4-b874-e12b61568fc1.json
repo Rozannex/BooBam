@@ -687,33 +687,21 @@
     },
     "done": true
   },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2024-12-18 04:31:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:40:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2024-12-18 04:50:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
     },
     "done": false
   },
@@ -723,23 +711,11 @@
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "twilightforest:progress_yeti": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
+      "previous_progression": "2024-12-18 04:50:06 +0000"
     },
     "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-18 04:40:37 +0000"
-    },
-    "done": true
   },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
@@ -747,53 +723,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2024-12-18 04:50:08 +0000"
     },
     "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-18 05:16:06 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:17:32 +0000"
-    },
-    "done": false
   },
   "twilightforest:magic_map_focus": {
     "criteria": {
@@ -801,15 +735,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_yeti": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "previous_progression": "2024-12-18 04:50:06 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:hill1": {
-    "criteria": {
-      "redcap": "2024-12-18 04:31:49 +0000"
+      "obsidian": "2024-12-18 05:16:06 +0000"
     },
     "done": true
   },
