@@ -564,3 +564,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 02:23:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [Mysterious Gift]
 [18Dec2024 02:23:56.338] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of enderg39 (18)
 [18Dec2024 02:23:56.339] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to enderg39
+[18Dec2024 02:30:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Bone Crusher]
+[18Dec2024 02:31:20.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [Knowledge raises the soul]
+[18Dec2024 02:32:02.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Die Classy]
+[18Dec2024 02:35:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> z
+[18Dec2024 02:35:44.543] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /tbacceptteleport Capybara_Zzz
+java.lang.IllegalArgumentException: Invalid UUID string: Capybara_Zzz
+	at java.util.UUID.fromString1(UUID.java:282) ~[?:?]
+	at java.util.UUID.fromString(UUID.java:260) ~[?:?]
+	at ovh.corail.tombstone.command.CommandTBAcceptTeleport.acceptTeleport(CommandTBAcceptTeleport.java:48) ~[tombstone-1.20.1-8.8.6.jar%23182!/:8.8.6]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
