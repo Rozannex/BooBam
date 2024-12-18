@@ -180,6 +180,7 @@
       "volcanic_plains": "2024-12-17 21:20:43 +0000",
       "prairie": "2024-12-17 02:06:52 +0000",
       "grassland": "2024-12-17 22:17:01 +0000",
+      "glowing_grotto": "2024-12-18 01:02:44 +0000",
       "rainforest": "2024-12-17 21:21:00 +0000"
     },
     "done": false
@@ -326,111 +327,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 23:39:27 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2024-12-17 22:58:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-12-17 20:58:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-17 20:32:45 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2024-12-17 22:01:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "skeleton_druid": "2024-12-17 22:51:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2024-12-17 23:24:08 +0000"
+      "crafting_table": "2024-12-17 20:13:56 +0000"
     },
     "done": true
   },
@@ -440,15 +339,81 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "coded_trigger": "2024-12-17 21:20:26 +0000"
+      "has_magic_scroll": "2024-12-17 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 20:32:45 +0000"
     },
     "done": true
   },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-17 20:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-17 20:58:20 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2024-12-17 21:19:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 21:20:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2024-12-17 21:22:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2024-12-17 21:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-17 21:33:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-17 21:35:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2024-12-17 22:01:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-12-17 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "skeleton_druid": "2024-12-17 22:51:06 +0000"
     },
     "done": true
   },
@@ -462,51 +427,9 @@
     },
     "done": false
   },
-  "mowziesmobs:kill_naga": {
+  "twilightforest:progress_naga": {
     "criteria": {
-      "naga": "2024-12-17 21:35:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-17 20:32:34 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2024-12-17 21:19:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "make_portal": "2024-12-17 22:50:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:longbow": {
-    "criteria": {
-      "has_longbow": "2024-12-17 21:30:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-17 20:13:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:boomerang": {
-    "criteria": {
-      "has_boomerang": "2024-12-17 21:22:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-17 21:33:52 +0000"
+      "naga": "2024-12-17 22:58:26 +0000"
     },
     "done": true
   },
@@ -522,11 +445,89 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-17 23:24:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hedge": {
     "criteria": {
       "hedge_spider": "2024-12-17 23:30:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-18 01:15:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

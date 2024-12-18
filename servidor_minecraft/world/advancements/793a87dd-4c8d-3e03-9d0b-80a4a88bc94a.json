@@ -131,6 +131,7 @@
       "volcano": "2024-12-17 04:24:18 +0000",
       "pasture": "2024-12-17 03:31:45 +0000",
       "rocky_rainforest": "2024-12-17 04:23:37 +0000",
+      "volcanic_plains": "2024-12-18 00:47:53 +0000",
       "prairie": "2024-12-17 03:09:56 +0000",
       "glowing_grotto": "2024-12-17 23:22:09 +0000",
       "rainforest": "2024-12-17 04:24:04 +0000"
@@ -344,6 +345,36 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-17 23:57:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-18 01:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-18 00:48:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-18 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-18 00:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-18 00:48:50 +0000"
     },
     "done": true
   },

@@ -598,3 +598,66 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 00:48:53.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9463ms or 189 ticks behind
 [18Dec2024 00:48:56.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Incendium]
 [18Dec2024 00:48:56.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [We Need to Go Deeper]
+[18Dec2024 00:49:59.480] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 00:49:59.490] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 00:50:03.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 tried to swim in lava to escape Magma Cube
+[18Dec2024 00:50:03.495] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 00:50:13.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has reached the goal [Here They Come]
+[18Dec2024 00:50:13.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[18Dec2024 00:50:33.475] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 00:50:33.484] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 00:50:37.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has reached the goal [Chain Death]
+[18Dec2024 00:50:37.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 tried to swim in lava to escape Straddler
+[18Dec2024 00:50:37.024] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 00:51:13.034] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 00:51:13.042] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 00:51:41.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 burned to death
+[18Dec2024 00:53:31.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [A Terrible Fortress]
+[18Dec2024 00:53:55.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Magic Writing]
+[18Dec2024 00:54:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Diamonds!]
+[18Dec2024 00:55:04.031] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 00:55:04.054] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 00:55:11.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 was slain by Wither Skeleton
+[18Dec2024 00:55:55.836] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 00:55:55.844] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 00:56:02.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 burned to death
+[18Dec2024 00:57:10.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Into Fire]
+[18Dec2024 00:58:09.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Hellfire Mantle]
+[18Dec2024 00:58:09.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Strange Biomes]
+[18Dec2024 00:58:17.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.232.133.134:42527] logged in with entity id 9666 at (-1202.9190751931865, 117.0, 2579.7826715974115)
+[18Dec2024 00:58:17.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[18Dec2024 00:58:19.028] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Capybara_Zzz (18)
+[18Dec2024 00:58:19.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Capybara_Zzz
+[18Dec2024 01:06:07.646] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 01:06:07.694] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 01:06:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 was doomed to fall
+[18Dec2024 01:06:16.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has completed the challenge [Free Willy]
+[18Dec2024 01:08:13.140] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 01:08:13.223] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 01:08:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 was slain by Zombified Piglin
+[18Dec2024 01:09:10.449] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 01:09:10.526] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 01:09:13.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 tried to swim in lava
+[18Dec2024 01:09:13.508] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 01:10:02.959] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 01:10:03.007] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 01:10:09.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 burned to death
+[18Dec2024 01:10:18.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2127, y=98, z=1961} BlockPos{x=-2128, y=96, z=1960}
+[18Dec2024 01:10:18.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2127, y=98, z=1961} BlockPos{x=-2128, y=96, z=1960}
+[18Dec2024 01:10:18.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2127, y=98, z=1961} BlockPos{x=-2128, y=96, z=1960}
+[18Dec2024 01:10:41.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2091, y=103, z=1971} BlockPos{x=-2090, y=103, z=1970}
+[18Dec2024 01:10:41.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2092, y=104, z=1972} BlockPos{x=-2091, y=102, z=1972}
+[18Dec2024 01:10:41.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2092, y=104, z=1972} BlockPos{x=-2091, y=102, z=1972}
+[18Dec2024 01:10:46.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Straddle My Ol' Saddle]
+[18Dec2024 01:14:14.893] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 01:14:14.903] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 01:14:24.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 burned to death
+[18Dec2024 01:15:50.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has reached the goal [Pocket Edition Alpha]
+[18Dec2024 01:16:03.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[18Dec2024 01:16:03.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[18Dec2024 01:16:03.642] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Capybara_Zzz
+[18Dec2024 01:16:17.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Who is Cutting Onions?]
+[18Dec2024 01:18:50.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.173.15.54:46905] logged in with entity id 22042 at (-1205.7622800778379, 119.0, 2588.2181322744245)
+[18Dec2024 01:18:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[18Dec2024 01:18:52.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Capybara_Zzz (18)
+[18Dec2024 01:18:52.195] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Capybara_Zzz

@@ -81,6 +81,7 @@
     "criteria": {
       "rocky_shrubland": "2024-12-17 21:40:00 +0000",
       "scrubland": "2024-12-17 20:08:13 +0000",
+      "erupting_inferno": "2024-12-18 00:57:14 +0000",
       "jacaranda_glade": "2024-12-17 21:40:36 +0000",
       "jade_cliffs": "2024-12-17 22:33:45 +0000",
       "old_growth_woodland": "2024-12-17 21:24:54 +0000",
@@ -180,9 +181,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-18 00:57:09 +0000",
       "minecraft:skeleton": "2024-12-17 21:18:00 +0000",
+      "minecraft:magma_cube": "2024-12-18 01:02:29 +0000",
       "minecraft:spider": "2024-12-17 19:42:55 +0000",
       "minecraft:creeper": "2024-12-17 20:39:03 +0000",
+      "minecraft:wither_skeleton": "2024-12-18 00:53:50 +0000",
       "minecraft:zombie": "2024-12-17 20:21:22 +0000",
       "minecraft:drowned": "2024-12-17 19:45:28 +0000"
     },
@@ -299,6 +303,90 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-18 00:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-18 00:48:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-18 00:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-18 00:48:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-18 00:58:09 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 00:50:13 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-18 00:58:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 00:50:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-18 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-18 00:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-18 00:54:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-18 01:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-18 00:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-18 00:57:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-18 00:58:09 +0000"
     },
     "done": true
   },
