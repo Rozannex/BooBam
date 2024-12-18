@@ -374,11 +374,35 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-18 02:44:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-18 02:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-18 02:44:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-18 02:30:37 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-18 02:41:45 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
@@ -386,9 +410,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-18 02:44:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2024-12-18 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-18 02:41:45 +0000"
     },
     "done": true
   },
