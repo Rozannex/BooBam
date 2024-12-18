@@ -412,5 +412,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:29:48 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2024-12-18 04:30:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

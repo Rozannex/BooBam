@@ -583,3 +583,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 04:27:06.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7824, y=6, z=20403} BlockPos{x=-7824, y=5, z=20404}
 [18Dec2024 04:29:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has reached the goal [Bone Crusher]
 [18Dec2024 04:30:23.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [The More You Know!]
+[18Dec2024 04:31:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [The Boots Are Mine!]
+[18Dec2024 04:31:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [The Boots Are Mine!]
+[18Dec2024 04:38:09.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [With Fire It Writes]
+[18Dec2024 04:39:40.187] [Server thread/WARN] [tombstone/]: The death event of the player Capybara_Zzz was canceled by another mod
+[18Dec2024 04:39:40.201] [Server thread/INFO] [tombstone/]: The player Capybara_Zzz has successfully been saved
+[18Dec2024 04:39:45.892] [Server thread/WARN] [tombstone/]: The death event of the player enderg39 was canceled by another mod
+[18Dec2024 04:39:45.899] [Server thread/INFO] [tombstone/]: The player enderg39 has successfully been saved
+[18Dec2024 04:40:22.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than Capybara_Zzz
+[18Dec2024 04:40:22.495] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Capybara_Zzz with unique ID travelersbackpack.standard_18.12.2024-04.40.22.dat
+[18Dec2024 04:40:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Strong or Careful]
+[18Dec2024 04:40:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 succumbed to the Lich's explosive magic while escaping Zombie
+[18Dec2024 04:40:33.041] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for enderg39 with unique ID travelersbackpack.diamond_18.12.2024-04.40.33.dat
+[18Dec2024 04:40:33.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [Your First Grave]
+[18Dec2024 04:40:36.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [The Most Useful Key]
+[18Dec2024 04:40:36.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[18Dec2024 04:40:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Here They Come]
+[18Dec2024 04:41:19.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [A Fast Comeback]
+[18Dec2024 04:45:01.635] [Server thread/WARN] [tombstone/]: The death event of the player Capybara_Zzz was canceled by another mod
+[18Dec2024 04:45:01.644] [Server thread/INFO] [tombstone/]: The player Capybara_Zzz has successfully been saved
+[18Dec2024 04:45:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked st_Div: Kicked by an operator
+[18Dec2024 04:45:22.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: st_Div lost connection: Kicked by an operator
+[18Dec2024 04:45:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div left the game
+[18Dec2024 04:45:23.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client st_Div
+[18Dec2024 04:45:31.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: st_Div[/127.111.184.122:49749] logged in with entity id 43691 at (-2096.295326706963, 88.0, 1884.784745569851)
+[18Dec2024 04:45:31.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the game
+[18Dec2024 04:45:32.766] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of st_Div (18)
+[18Dec2024 04:45:32.767] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to st_Div
+[18Dec2024 04:46:04.187] [Server thread/WARN] [tombstone/]: The death event of the player Capybara_Zzz was canceled by another mod
+[18Dec2024 04:46:04.251] [Server thread/INFO] [tombstone/]: The player Capybara_Zzz has successfully been saved
+[18Dec2024 04:46:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 04:46:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warn enderg39 testttt<--[HERE]
+[18Dec2024 04:49:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made st_Div a server operator
+[18Dec2024 04:50:06.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Strong Undead]
+[18Dec2024 04:50:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Bring Out Your Dead]
+[18Dec2024 04:50:06.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Bring Out Your Dead]
+[18Dec2024 04:50:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Back to childhood]
+[18Dec2024 04:50:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Not even afraid of death]
