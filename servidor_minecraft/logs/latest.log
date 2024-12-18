@@ -590,3 +590,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 20:05:23.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to st_Div]
 [18Dec2024 20:10:19.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to drewfm236]
 [18Dec2024 20:10:43.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported st_Div to Roxanne711]
+[18Dec2024 20:13:45.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Zyen_[/127.151.39.187:53043] logged in with entity id 10250 at (-2096.7245980675084, 90.875, 1886.3658006554379)
+[18Dec2024 20:13:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ joined the game
+[18Dec2024 20:13:46.144] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Zyen_ (18)
+[18Dec2024 20:13:46.145] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Zyen_
+[18Dec2024 20:14:24.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ has made the advancement [Diamonds!]
+[18Dec2024 20:15:53.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[18Dec2024 20:15:53.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[18Dec2024 20:15:53.826] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roxanne711
+[18Dec2024 20:15:53.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ has made the advancement [Cover Me with Diamonds]
+[18Dec2024 20:21:27.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ has made the advancement [Stone Age]
+[18Dec2024 20:24:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ has made the advancement [Knowledge of Death]
+[18Dec2024 20:24:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ has made the advancement [Ashes 'n Bones]
+[18Dec2024 20:28:05.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported _Zyen_ to st_Div
+[18Dec2024 20:29:05.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ has made the advancement [Acquire Hardware]
+[18Dec2024 20:29:35.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5207ms or 104 ticks behind
+[18Dec2024 20:29:44.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 moved too quickly! -15194.950512456273,-94.57969854367613,13720.484620721087
+[18Dec2024 20:31:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ has made the advancement [The Silence of the Forest]
+[18Dec2024 20:32:50.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Zyen_ moved too quickly! -0.7204716586238646,-1.8352267181739332,9.99803657310622
+[18Dec2024 20:32:50.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4289ms or 85 ticks behind
