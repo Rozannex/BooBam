@@ -117,6 +117,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2024-12-18 19:49:57 +0000",
       "scrubland": "2024-12-17 03:35:32 +0000",
       "jade_cliffs": "2024-12-17 03:16:33 +0000",
       "orchard": "2024-12-18 19:48:00 +0000",

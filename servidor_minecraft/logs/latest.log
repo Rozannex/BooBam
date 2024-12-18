@@ -577,3 +577,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:43:53.398] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roxanne711
 [18Dec2024 19:47:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 has made the advancement [En Garde!]
 [18Dec2024 19:48:00.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported drewfm236 to Roxanne711]
+[18Dec2024 19:55:04.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Zyen_ lost connection: Disconnected
+[18Dec2024 19:55:04.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Zyen_ left the game
+[18Dec2024 19:55:04.587] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _Zyen_
+[18Dec2024 19:58:15.137] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[18Dec2024 19:58:15.206] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[18Dec2024 20:01:53.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: st_Div[/127.130.171.145:60277] logged in with entity id 5320 at (-4663.6651987244495, 65.0, 4101.588043247291)
+[18Dec2024 20:01:54.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the game
+[18Dec2024 20:01:55.771] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of st_Div (18)
+[18Dec2024 20:01:55.778] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to st_Div
+[18Dec2024 20:02:28.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/5799, l='ServerLevel[world]', x=-4645.06, y=65.48, z=3903.71]
+[18Dec2024 20:05:23.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to st_Div]
+[18Dec2024 20:10:19.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported Roxanne711 to drewfm236]
+[18Dec2024 20:10:43.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported st_Div to Roxanne711]
