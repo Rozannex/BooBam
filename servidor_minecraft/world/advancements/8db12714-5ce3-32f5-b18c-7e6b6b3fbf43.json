@@ -389,9 +389,21 @@
     },
     "done": true
   },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2024-12-18 03:47:03 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2024-12-18 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2024-12-18 03:49:42 +0000"
     },
     "done": true
   },
@@ -452,6 +464,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2024-12-18 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2024-12-18 03:51:27 +0000"
     },
     "done": true
   },

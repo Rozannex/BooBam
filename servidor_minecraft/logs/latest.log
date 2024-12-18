@@ -676,3 +676,10 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [18Dec2024 03:41:15.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/16248, l='ServerLevel[world]', x=-1390.54, y=64.50, z=2482.20] died, message: 'Librarian was slain by Capybara_Zzz'
 [18Dec2024 03:41:15.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Neighborhood Brawl]
 [18Dec2024 03:41:15.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1175, y=111, z=2580} BlockPos{x=-1174, y=110, z=2580}
+[18Dec2024 03:46:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [A Rogue's Best Friend]
+[18Dec2024 03:47:03.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [A Rogue's Best Friend]
+[18Dec2024 03:48:53.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Old School Defense]
+[18Dec2024 03:49:42.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [Old School Defense]
+[18Dec2024 03:51:08.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Not the Olympic Type]
+[18Dec2024 03:51:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [Not the Olympic Type]
+[18Dec2024 04:01:31.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [Enchanter]
