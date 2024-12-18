@@ -559,3 +559,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 06:23:20.640] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to st_Div
 [18Dec2024 06:23:20.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
 [18Dec2024 06:23:25.059] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/985, l='ServerLevel[world]', x=-4966.83, y=64.56, z=4368.19]
+[18Dec2024 06:30:19.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1440, l='ServerLevel[world]', x=-4626.70, y=63.54, z=4160.79] died, message: 'Villager was slain by Zombie'
+[18Dec2024 06:30:24.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1441, l='ServerLevel[world]', x=-4626.30, y=63.54, z=4160.48] died, message: 'Farmer was slain by Zombie Villager'
+[18Dec2024 06:30:35.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1439, l='ServerLevel[world]', x=-4626.30, y=63.10, z=4160.35] died, message: 'Villager was slain by Zombie Villager'
+[18Dec2024 06:30:45.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1923, l='ServerLevel[world]', x=-4627.66, y=63.00, z=4192.50] died, message: 'Villager was slain by Zombie'
+[18Dec2024 06:31:15.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [What a Deal!]
