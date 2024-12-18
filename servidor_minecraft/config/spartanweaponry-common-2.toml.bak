@@ -1,4 +1,20 @@
-silver = {}
+bronze = {}
+
+[throwing_knife]
+	#Disables all recipes for all Throwing Knives.
+	disable = false
+	#Attack speed of Throwing Knives.
+	#Range: 0.0 ~ 4.0
+	speed = 2.5
+	#Base Damage of Throwing Knives.
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Damage Multiplier for Throwing Knives.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+	#Charge time in ticks for Throwing Knives.
+	#Range: 1 ~ 1000
+	charge_ticks = 5
 
 [dagger]
 	#Disables all recipes for all Daggers.
@@ -203,22 +219,6 @@ silver = {}
 	#Disables all recipes for all Heavy Crossbows.
 	disable = false
 
-[throwing_knife]
-	#Disables all recipes for all Throwing Knives.
-	disable = false
-	#Attack speed of Throwing Knives.
-	#Range: 0.0 ~ 4.0
-	speed = 2.5
-	#Base Damage of Throwing Knives.
-	#Range: 0.1 ~ 100.0
-	base_damage = 1.5
-	#Damage Multiplier for Throwing Knives.
-	#Range: 0.1 ~ 10.0
-	damage_multiplier = 1.0
-	#Charge time in ticks for Throwing Knives.
-	#Range: 1 ~ 1000
-	charge_ticks = 5
-
 [tomahawk]
 	#Disables all recipes for all Tomahawks.
 	disable = false
@@ -350,25 +350,5 @@ silver = {}
 	#Range: 1 ~ 100000
 	durability = 180
 	#Set to true to disable tin weapons
-	disable = false
-
-[bronze]
-	#Base Damage for bronze weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.0
-	#Durability for bronze weapons
-	#Range: 1 ~ 100000
-	durability = 320
-	#Set to true to disable bronze weapons
-	disable = false
-
-[steel]
-	#Base Damage for steel weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.5
-	#Durability for steel weapons
-	#Range: 1 ~ 100000
-	durability = 480
-	#Set to true to disable steel weapons
 	disable = false
 
