@@ -108,6 +108,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-18 02:52:24 +0000",
       "minecraft:skeleton": "2024-12-17 02:29:14 +0000",
       "minecraft:ghast": "2024-12-18 01:51:22 +0000",
       "minecraft:magma_cube": "2024-12-18 02:00:55 +0000",
@@ -619,6 +620,24 @@
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2024-12-18 02:04:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2024-12-18 02:52:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2024-12-18 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2024-12-18 02:52:24 +0000"
     },
     "done": true
   },

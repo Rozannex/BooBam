@@ -637,3 +637,26 @@ net.minecraft.ReportedException: Loading entity NBT
 Caused by: java.lang.IllegalStateException: Entity has invalid position
 	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23191!/:?]
 	... 33 more
+[18Dec2024 02:50:40.999] [Server thread/WARN] [tombstone/]: The death event of the player enderg39 was canceled by another mod
+[18Dec2024 02:50:41.020] [Server thread/INFO] [tombstone/]: The player enderg39 has successfully been saved
+[18Dec2024 02:51:15.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [UNLIMITED POWER!!!]
+[18Dec2024 02:52:02.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [UNLIMITED POWER!!!]
+[18Dec2024 02:52:24.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Ceci n'est pas un blaze]
+[18Dec2024 02:52:24.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7163, l='ServerLevel[world]', x=-279.86, y=33.20, z=454.91] died: Pipeline Sentry was slain by Capybara_Zzz
+[18Dec2024 02:53:36.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: st_Div[/127.111.184.122:36757] logged in with entity id 9453 at (-2103.6030149033586, 89.41999998688698, 1867.0940217386064)
+[18Dec2024 02:53:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div joined the game
+[18Dec2024 02:53:37.710] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of st_Div (18)
+[18Dec2024 02:53:37.712] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to st_Div
+[18Dec2024 02:53:48.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7198, l='ServerLevel[world]', x=-253.30, y=33.20, z=484.70] died: Pipeline Sentry was slain by Capybara_Zzz
+[18Dec2024 02:55:55.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Ceci n'est pas un blaze]
+[18Dec2024 02:55:55.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7138, l='ServerLevel[world]', x=-220.86, y=33.00, z=456.14] died: Pipeline Sentry was slain by enderg39
+[18Dec2024 02:56:04.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7140, l='ServerLevel[world]', x=-214.30, y=37.62, z=457.70] died: Pipeline Sentry was slain by enderg39
+[18Dec2024 02:57:21.583] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Prime Pipeline Sentry'/7130, l='ServerLevel[world]', x=-242.31, y=35.00, z=435.35] died: Prime Pipeline Sentry was slain by Capybara_Zzz
+[18Dec2024 02:57:42.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Prime Pipeline Sentry'/7129, l='ServerLevel[world]', x=-242.30, y=34.00, z=436.30] died: Prime Pipeline Sentry was slain by Capybara_Zzz
+[18Dec2024 02:57:46.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has completed the challenge [Plumber's Plunder]
+[18Dec2024 02:58:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has made the advancement [Hot Stuff]
+[18Dec2024 02:58:21.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Hidden in the Depths]
+[18Dec2024 02:58:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Who is Cutting Onions?]
+[18Dec2024 02:58:25.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Hot Stuff]
+[18Dec2024 02:59:42.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7189, l='ServerLevel[world]', x=-218.40, y=34.00, z=471.03] died: Pipeline Sentry was slain by enderg39
+[18Dec2024 03:00:22.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7188, l='ServerLevel[world]', x=-215.30, y=34.00, z=472.30] died: Pipeline Sentry was slain by Capybara_Zzz
