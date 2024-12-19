@@ -579,3 +579,121 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 01:08:19.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
 [19Dec2024 01:09:26.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.136.77.78:36069] logged in with entity id 5165 at (-17330.95797589244, 13.0, 16126.628005007748)
 [19Dec2024 01:09:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:09:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Ambush]
+[19Dec2024 01:11:18.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Disconnected
+[19Dec2024 01:11:18.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:11:47.297] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
+[19Dec2024 01:11:47.299] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 01:11:47.349] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b6e1048[id=<null>,name=Duxaethera,properties={},legacy=false] (/127.252.64.152:38849) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 01:12:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Cover Me with Diamonds]
+[19Dec2024 01:14:34.499] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d0114b[id=<null>,name=drewfm236,properties={},legacy=false] (/127.4.239.216:33029) lost connection: Disconnected
+[19Dec2024 01:14:44.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.205.121.217:40081] logged in with entity id 7428 at (-17309.50527472602, 6.0, 16137.227964174897)
+[19Dec2024 01:14:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:15:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported drewfm236 to Roxanne711]
+[19Dec2024 01:15:39.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6281ms or 125 ticks behind
+[19Dec2024 01:16:05.411] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[19Dec2024 01:16:05.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Duxaethera[/127.252.64.152:57387] logged in with entity id 8209 at (16.982537018763203, 69.0, -4.888557655381979)
+[19Dec2024 01:16:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera joined the game
+[19Dec2024 01:17:23.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> como ta muchacho
+[19Dec2024 01:17:48.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> yo loh veo a ustedes muy bien
+[19Dec2024 01:20:07.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! -9.56302334818406,0.001335979112141672,3.7989015245157134
+[19Dec2024 01:20:07.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[19Dec2024 01:20:45.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported drewfm236 to Roxanne711]
+[19Dec2024 01:21:00.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:21:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:21:23.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.94.83.164:55009] logged in with entity id 16478 at (-2059.0956436632373, 95.0, 1883.309903680094)
+[19Dec2024 01:21:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:21:33.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> Div tu donde estas?
+[19Dec2024 01:22:06.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> estoy a la gran puta
+[19Dec2024 01:22:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> es mas estoy en el nether
+[19Dec2024 01:22:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> tamos igual
+[19Dec2024 01:23:53.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Monster Hunter]
+[19Dec2024 01:25:20.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[19Dec2024 01:26:49.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19Dec2024 01:26:51.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [The Silence of the Forest]
+[19Dec2024 01:27:36.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19Dec2024 01:27:57.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5850ms or 117 ticks behind
+[19Dec2024 01:28:07.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported drewfm236 to Roxanne711]
+[19Dec2024 01:28:15.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[19Dec2024 01:29:02.419] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ironchest:network,cosmeticarmorreworked:main,elevatorid:main_channel,waystones:network] rejected their client side version number
+[19Dec2024 01:29:02.420] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 01:29:02.462] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7677894f[id=<null>,name=gerfran,properties={},legacy=false] (/127.111.168.171:38317) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 01:29:09.092] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ironchest:network,cosmeticarmorreworked:main,elevatorid:main_channel,waystones:network] rejected their client side version number
+[19Dec2024 01:29:09.092] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 01:29:09.124] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dfb33bd[id=<null>,name=gerfran,properties={},legacy=false] (/127.111.168.171:49185) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 01:30:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [A Terrible Fortress]
+[19Dec2024 01:31:15.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 moved too quickly! 15197.919887978049,95.07840000152588,-13720.605561749375
+[19Dec2024 01:31:54.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:31:54.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:32:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Straddle My Ol' Saddle]
+[19Dec2024 01:32:27.078] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@501d8e00[id=<null>,name=drewfm236,properties={},legacy=false] (/127.202.147.227:56867) lost connection: Disconnected
+[19Dec2024 01:32:32.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.92.89.157:50241] logged in with entity id 37047 at (-2110.7656734199727, 84.0, 1905.035062309705)
+[19Dec2024 01:32:32.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:32:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Stone Age]
+[19Dec2024 01:33:02.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:33:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:33:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Getting an Upgrade]
+[19Dec2024 01:33:36.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.130.119.16:57873] logged in with entity id 37483 at (-2110.7656734199727, 84.0, 1905.035062309705)
+[19Dec2024 01:33:36.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:33:55.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=62, z=-17} BlockPos{x=11, y=61, z=-16}
+[19Dec2024 01:34:06.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:34:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:34:20.183] [ForkJoinPool.commonPool-worker-14/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[19Dec2024 01:34:20.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gerfran[/127.111.168.171:35393] logged in with entity id 37756 at (-2094.484137736236, 111.0, 1719.7180131386237)
+[19Dec2024 01:34:20.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran joined the game
+[19Dec2024 01:34:28.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.154.142.205:59015] logged in with entity id 37912 at (-2110.7656734199727, 84.0, 1905.035062309705)
+[19Dec2024 01:34:28.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:34:45.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=60, z=-17} BlockPos{x=7, y=60, z=-16}
+[19Dec2024 01:34:46.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=60, z=-17} BlockPos{x=7, y=61, z=-16}
+[19Dec2024 01:34:54.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=61, z=-17} BlockPos{x=5, y=61, z=-16}
+[19Dec2024 01:34:58.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:34:58.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:35:02.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5, y=61, z=-17} BlockPos{x=6, y=61, z=-15}
+[19Dec2024 01:35:23.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.176.224.54:43291] logged in with entity id 38395 at (-2110.7656734199727, 84.0, 1905.035062309705)
+[19Dec2024 01:35:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:35:53.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:35:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:35:56.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Diamonds!]
+[19Dec2024 01:36:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Cover Me with Diamonds]
+[19Dec2024 01:36:05.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.103.62.232:46829] logged in with entity id 38760 at (-2110.7656734199727, 84.0, 1905.035062309705)
+[19Dec2024 01:36:05.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:36:27.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2143, y=120, z=1869} BlockPos{x=-2143, y=119, z=1868}
+[19Dec2024 01:36:35.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:36:35.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:37:15.459] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
+[19Dec2024 01:37:15.460] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 01:37:15.514] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a8cbe1a[id=<null>,name=Capybara_Zzz,properties={},legacy=false] (/127.245.201.190:49987) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 01:38:48.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:58571] logged in with entity id 40153 at (-2110.7656734199727, 84.0, 1905.035062309705)
+[19Dec2024 01:38:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:40:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [We Need to Go Deeper]
+[19Dec2024 01:40:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Incendium]
+[19Dec2024 01:40:54.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [A Terrible Fortress]
+[19Dec2024 01:41:12.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Into Fire]
+[19Dec2024 01:41:17.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Into Fire]
+[19Dec2024 01:42:26.568] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
+[19Dec2024 01:42:26.569] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 01:42:26.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5eb134dd[id=<null>,name=Capybara_Zzz,properties={},legacy=false] (/127.232.133.134:48447) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 01:43:05.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 has made the advancement [We Need to Go Deeper]
+[19Dec2024 01:43:05.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 has made the advancement [Incendium]
+[19Dec2024 01:43:15.730] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
+[19Dec2024 01:43:15.731] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 01:43:15.774] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@108cbd48[id=<null>,name=Capybara_Zzz,properties={},legacy=false] (/127.232.133.134:48203) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 01:43:34.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:43:34.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:45:02.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:40055] logged in with entity id 43980 at (-250.9676746283965, 55.0, 218.5)
+[19Dec2024 01:45:02.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:45:11.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Sweet Dreams]
+[19Dec2024 01:45:32.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:45:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:46:33.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:58793] logged in with entity id 44784 at (-250.9676746283965, 55.0, 218.5)
+[19Dec2024 01:46:33.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:47:03.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:47:03.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:47:56.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.245.201.190:38509] logged in with entity id 45463 at (-1385.5490230639584, 80.0, 2448.025314966269)
+[19Dec2024 01:47:56.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[19Dec2024 01:48:27.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 01:48:46.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3691ms or 73 ticks behind
+[19Dec2024 01:49:05.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[19Dec2024 01:49:19.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Acquire Hardware]
+[19Dec2024 01:49:24.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3990ms or 79 ticks behind
+[19Dec2024 01:49:42.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
