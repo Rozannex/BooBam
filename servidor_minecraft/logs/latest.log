@@ -684,3 +684,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 04:10:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> que
 [19Dec2024 04:11:02.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Upgrade Me with Debris]
 [19Dec2024 04:12:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has completed the challenge [Cover Me in Debris]
+[19Dec2024 04:20:39.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Disconnected
+[19Dec2024 04:20:39.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[19Dec2024 04:20:39.465] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:20:59.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <enderg39> zzzzzz
+[19Dec2024 04:21:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[19Dec2024 04:21:39.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <enderg39> zzzzzzz
+[19Dec2024 04:21:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[19Dec2024 04:21:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> zzzzzzzz
+[19Dec2024 04:21:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> zzz
+[19Dec2024 04:23:06.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [The Silence of the Forest]

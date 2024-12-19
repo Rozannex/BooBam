@@ -478,10 +478,14 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2024-12-19 02:14:55 +0000",
+      "canopy_planks": "2024-12-19 04:14:23 +0000",
       "canopy_sapling": "2024-12-19 04:08:35 +0000",
+      "canopy_fence": "2024-12-19 04:14:36 +0000",
       "twilight_oak_log": "2024-12-18 20:30:01 +0000",
       "twilight_oak_sapling": "2024-12-18 20:30:09 +0000",
-      "canopy_log": "2024-12-18 20:29:49 +0000"
+      "canopy_log": "2024-12-18 20:29:49 +0000",
+      "canopy_slab": "2024-12-19 04:16:06 +0000",
+      "canopy_banister": "2024-12-19 04:16:28 +0000"
     },
     "done": false
   },
