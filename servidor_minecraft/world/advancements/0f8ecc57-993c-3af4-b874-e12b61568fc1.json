@@ -112,6 +112,7 @@
       "minecraft:blaze": "2024-12-18 02:52:24 +0000",
       "minecraft:skeleton": "2024-12-17 02:29:14 +0000",
       "minecraft:ghast": "2024-12-18 01:51:22 +0000",
+      "minecraft:hoglin": "2024-12-19 03:02:05 +0000",
       "minecraft:magma_cube": "2024-12-18 02:00:55 +0000",
       "minecraft:spider": "2024-12-17 01:57:06 +0000",
       "minecraft:piglin_brute": "2024-12-19 02:51:31 +0000",
@@ -159,6 +160,7 @@
       "cooked_mutton": "2024-12-17 03:40:47 +0000",
       "cooked_beef": "2024-12-17 02:24:50 +0000",
       "baked_potato": "2024-12-18 01:40:47 +0000",
+      "porkchop": "2024-12-19 03:07:27 +0000",
       "apple": "2024-12-17 02:05:18 +0000",
       "bread": "2024-12-17 03:39:23 +0000",
       "golden_apple": "2024-12-17 03:33:46 +0000",
@@ -759,6 +761,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-19 02:50:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2024-12-19 03:01:50 +0000"
     },
     "done": true
   },
