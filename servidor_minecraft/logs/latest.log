@@ -694,3 +694,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 04:21:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> zzzzzzzz
 [19Dec2024 04:21:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> zzz
 [19Dec2024 04:23:06.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [The Silence of the Forest]
+[19Dec2024 04:27:25.963] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 04:27:25.975] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 04:27:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera froze to death
+[19Dec2024 04:27:35.617] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Duxaethera with unique ID travelersbackpack.iron_19.12.2024-04.27.35.dat
+[19Dec2024 04:27:36.180] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 04:28:20.542] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 04:28:20.637] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 04:28:27.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has reached the goal [Chain Death]
+[19Dec2024 04:28:27.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera froze to death
+[19Dec2024 04:28:49.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: enderg39 lost connection: Disconnected
+[19Dec2024 04:28:49.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 left the game
