@@ -9355,3 +9355,69 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 04:01:29.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 04:01:29.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 04:01:37.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4197ms or 83 ticks behind
+[19Dec2024 04:02:58.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Dec2024 04:03:16.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 04:03:17.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 04:03:25.688] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Roxanne711'/921, l='ServerLevel[world]', x=-17391.86, y=6.00, z=15695.10]
+[19Dec2024 04:03:32.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 04:03:38.111] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-2157, y=98, z=1974}
+[19Dec2024 04:03:43.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 04:03:44.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 04:03:47.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 04:04:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> zz
+[19Dec2024 04:04:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Capybara_Zzz> zzzz
+[19Dec2024 04:04:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <enderg39> zzzzzz
+[19Dec2024 04:04:21.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> z
+[19Dec2024 04:04:22.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> z
+[19Dec2024 04:04:22.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> z
+[19Dec2024 04:04:22.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> z
+[19Dec2024 04:04:22.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> z
+[19Dec2024 04:04:22.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> z
+[19Dec2024 04:04:22.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> z
+[19Dec2024 04:04:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> zzzz
+[19Dec2024 04:05:07.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> dux
+[19Dec2024 04:05:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> seguime
+[19Dec2024 04:05:26.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> preparate para buscar recursos
+[19Dec2024 04:05:27.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has reached the goal [Upgrade Me with Debris]
+[19Dec2024 04:05:50.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-2117.14, y=88.17, z=1941.96], dimensionLocationPath overworld
+[19Dec2024 04:05:50.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-2117.35, y=88.25, z=1942.12]
+[19Dec2024 04:06:07.097] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17354, y=3, z=15694}
+[19Dec2024 04:06:08.498] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-17354, y=3, z=15694}
+[19Dec2024 04:06:33.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:06:33.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:06:58.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['st_Div'/4217, l='ServerLevel[world]', x=-17332.37, y=10.00, z=15740.70], dimensionLocationPath twilight_forest
+[19Dec2024 04:06:58.788] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['st_Div'/4217, l='ServerLevel[world]', x=-17332.37, y=10.00, z=15740.70] in list []
+[19Dec2024 04:06:59.123] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['st_Div'/4217, l='ServerLevel[world]', x=-17332.37, y=10.00, z=15740.70]
+[19Dec2024 04:07:38.039] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17346.96, y=17.00, z=15773.66], dimensionLocationPath twilight_forest
+[19Dec2024 04:07:38.039] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17346.96, y=17.00, z=15773.66] in list []
+[19Dec2024 04:07:38.470] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17346.96, y=17.00, z=15773.66]
+[19Dec2024 04:07:50.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> trata de agarrar los brotes de los arboles gigantes
+[19Dec2024 04:08:20.846] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17347.00, y=24.00, z=15775.59], dimensionLocationPath twilight_forest
+[19Dec2024 04:08:20.846] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17347.00, y=24.00, z=15775.59] in list []
+[19Dec2024 04:08:21.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17347.00, y=24.00, z=15775.59]
+[19Dec2024 04:09:45.194] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 04:09:45.273] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 04:10:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has completed the challenge [Cover Me in Debris]
+[19Dec2024 04:10:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> que
+[19Dec2024 04:10:28.687] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17349.73, y=6.00, z=15777.75], dimensionLocationPath twilight_forest
+[19Dec2024 04:10:28.687] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17349.73, y=6.00, z=15777.75] in list []
+[19Dec2024 04:10:28.841] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17349.73, y=6.00, z=15777.75]
+[19Dec2024 04:10:41.538] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17344.02, y=6.00, z=15770.31], dimensionLocationPath twilight_forest
+[19Dec2024 04:10:41.538] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17344.02, y=6.00, z=15770.31] in list []
+[19Dec2024 04:10:41.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17344.06, y=6.00, z=15770.28]
+[19Dec2024 04:10:46.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17345.25, y=6.00, z=15771.81], dimensionLocationPath twilight_forest
+[19Dec2024 04:10:46.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17345.25, y=6.00, z=15771.81] in list []
+[19Dec2024 04:10:47.062] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17345.25, y=6.00, z=15771.81]
+[19Dec2024 04:11:00.093] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-2157, y=98, z=1974}
+[19Dec2024 04:11:02.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: enderg39 has reached the goal [Upgrade Me with Debris]
+[19Dec2024 04:11:33.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:11:33.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:11:59.463] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/34909, l='ServerLevel[world]', x=-17345.43, y=23.24, z=15774.54], dimensionLocationPath twilight_forest
+[19Dec2024 04:11:59.463] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/34909, l='ServerLevel[world]', x=-17345.43, y=23.24, z=15774.54] in list []
+[19Dec2024 04:12:00.019] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/34909, l='ServerLevel[world]', x=-17345.19, y=23.00, z=15774.18, removed=DISCARDED]
+[19Dec2024 04:12:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has completed the challenge [Cover Me in Debris]
+[19Dec2024 04:12:55.706] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17348.59, y=32.00, z=15772.47], dimensionLocationPath twilight_forest
+[19Dec2024 04:12:55.706] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17348.59, y=32.00, z=15772.47] in list []
+[19Dec2024 04:12:55.993] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Duxaethera'/787, l='ServerLevel[world]', x=-17348.59, y=32.00, z=15772.47]
+[19Dec2024 04:13:08.047] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['st_Div'/4217, l='ServerLevel[world]', x=-17354.65, y=6.25, z=15721.01], dimensionLocationPath twilight_forest
+[19Dec2024 04:13:08.047] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['st_Div'/4217, l='ServerLevel[world]', x=-17354.65, y=6.25, z=15721.01] in list []
