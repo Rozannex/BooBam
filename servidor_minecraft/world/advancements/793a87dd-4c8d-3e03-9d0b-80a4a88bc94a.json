@@ -474,6 +474,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2024-12-19 02:14:55 +0000",
       "twilight_oak_log": "2024-12-18 20:30:01 +0000",
       "twilight_oak_sapling": "2024-12-18 20:30:09 +0000",
       "canopy_log": "2024-12-18 20:29:49 +0000"
@@ -492,6 +493,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-19 02:12:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:14:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2024-12-19 01:32:09 +0000"
@@ -504,9 +517,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-19 02:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-19 01:41:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:14:02 +0000"
     },
     "done": true
   },

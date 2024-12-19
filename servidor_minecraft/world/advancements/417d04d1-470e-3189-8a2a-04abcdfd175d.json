@@ -440,11 +440,23 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-19 02:15:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-19 01:09:55 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-19 02:14:52 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {

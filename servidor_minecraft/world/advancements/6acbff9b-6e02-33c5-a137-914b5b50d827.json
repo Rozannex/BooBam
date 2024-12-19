@@ -43,6 +43,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2024-12-19 02:08:23 +0000",
       "minecraft:stony_shore": "2024-12-17 23:33:08 +0000",
       "minecraft:forest": "2024-12-17 23:22:05 +0000",
       "minecraft:ocean": "2024-12-17 23:33:45 +0000"
@@ -151,6 +152,7 @@
       "minecraft:skeleton": "2024-12-17 23:41:34 +0000",
       "minecraft:magma_cube": "2024-12-19 01:40:35 +0000",
       "minecraft:spider": "2024-12-17 23:41:03 +0000",
+      "minecraft:phantom": "2024-12-19 02:13:34 +0000",
       "minecraft:wither_skeleton": "2024-12-19 01:45:46 +0000",
       "minecraft:zombie": "2024-12-17 23:40:23 +0000",
       "quark:foxhound": "2024-12-19 01:42:54 +0000"
@@ -199,6 +201,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-19 02:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-19 01:36:05 +0000"
@@ -208,6 +216,12 @@
   "spartanweaponry:longsword": {
     "criteria": {
       "has_longsword": "2024-12-19 01:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-19 02:10:47 +0000"
     },
     "done": true
   },
@@ -229,6 +243,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:13:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-19 01:40:18 +0000"
@@ -238,6 +258,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-19 01:40:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:13:34 +0000"
     },
     "done": true
   },
@@ -253,9 +279,21 @@
     },
     "done": true
   },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2024-12-19 02:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-19 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:14:27 +0000"
     },
     "done": true
   },

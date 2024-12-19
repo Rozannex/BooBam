@@ -741,3 +741,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 02:07:17.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Suit Up]
 [19Dec2024 02:07:45.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
 [19Dec2024 02:07:45.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:10:34.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19Dec2024 02:10:47.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Sweet Dreams]
+[19Dec2024 02:10:51.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:55795] logged in with entity id 62464 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:10:51.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:11:21.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:11:21.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:12:11.410] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4952a2a9[id=<null>,name=drewfm236,properties={},legacy=false] (/127.61.148.53:36013) lost connection: Disconnected
+[19Dec2024 02:12:32.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.140.225.239:43505] logged in with entity id 64016 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:12:32.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:12:47.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Magic Writing]
+[19Dec2024 02:13:02.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:13:02.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:13:34.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Knowledge of Death]
+[19Dec2024 02:13:34.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Ambush]
+[19Dec2024 02:13:38.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.241.83.135:49987] logged in with entity id 64515 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:13:38.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:13:45.829] [Server thread/WARN] [tombstone/]: The death event of the player drewfm236 was canceled by another mod
+[19Dec2024 02:13:45.864] [Server thread/INFO] [tombstone/]: The player drewfm236 has successfully been saved
+[19Dec2024 02:13:55.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Disconnected
+[19Dec2024 02:13:55.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:13:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 was slain by st_Div
+[19Dec2024 02:13:55.090] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for drewfm236 with unique ID travelersbackpack.standard_19.12.2024-02.13.55.dat
+[19Dec2024 02:14:02.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Funeral Theft]
+[19Dec2024 02:14:02.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has reached the goal [Discreet Search]
+[19Dec2024 02:14:27.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Knowledge raises the soul]
+[19Dec2024 02:14:55.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div has made the advancement [Where Is The Stone Pen?]
+[19Dec2024 02:15:10.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has reached the goal [This Belongs in a Museum]
+[19Dec2024 02:15:18.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.136.77.78:38245] logged in with entity id 65664 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:15:18.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:15:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [Who is Cutting Onions?]
+[19Dec2024 02:15:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [The Fourth Horseman]
+[19Dec2024 02:15:48.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:15:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:16:31.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:38683] logged in with entity id 66295 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:16:31.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:17:02.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:17:02.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:19:13.368] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f397e3a[id=<null>,name=drewfm236,properties={},legacy=false] (/127.82.134.92:55333) lost connection: Disconnected
+[19Dec2024 02:19:33.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:47461] logged in with entity id 68548 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:19:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:19:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Diamonds!]
+[19Dec2024 02:20:03.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:20:03.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:20:20.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34b91af[id=<null>,name=drewfm236,properties={},legacy=false] (/127.92.89.157:33865) lost connection: Disconnected
+[19Dec2024 02:20:26.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:51671] logged in with entity id 69119 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:20:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:20:43.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Disconnected
+[19Dec2024 02:20:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
