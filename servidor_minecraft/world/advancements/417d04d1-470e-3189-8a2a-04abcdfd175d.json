@@ -446,9 +446,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2024-12-19 01:51:45 +0000"
+    },
+    "done": false
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2024-12-19 01:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-19 01:51:45 +0000"
     },
     "done": true
   },

@@ -116,7 +116,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-17 23:33:17 +0000"
+      "bread": "2024-12-17 23:33:17 +0000",
+      "rotten_flesh": "2024-12-19 01:46:56 +0000"
     },
     "done": false
   },
@@ -201,6 +202,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-19 01:36:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2024-12-19 01:52:57 +0000"
     },
     "done": true
   },

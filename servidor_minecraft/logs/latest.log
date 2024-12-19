@@ -697,3 +697,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 01:49:19.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Acquire Hardware]
 [19Dec2024 01:49:24.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3990ms or 79 ticks behind
 [19Dec2024 01:49:42.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[19Dec2024 01:50:00.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[19Dec2024 01:50:09.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Isn't It Iron Pick]
+[19Dec2024 01:50:18.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[19Dec2024 01:51:45.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [The Parrots and the Bats]
+[19Dec2024 01:52:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran has made the advancement [A Bigger Blade]
+[19Dec2024 01:54:07.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.92.89.157:58717] logged in with entity id 50511 at (-250.9676746283965, 55.0, 218.5)
+[19Dec2024 01:54:07.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:54:37.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:54:37.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:54:58.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Capybara_Zzz lost connection: Timed out
+[19Dec2024 01:54:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz left the game
+[19Dec2024 01:55:04.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Capybara_Zzz[/127.232.133.134:42443] logged in with entity id 51265 at (-1199.3247345357804, 119.0, 2587.9770544096673)
+[19Dec2024 01:55:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz joined the game
+[19Dec2024 01:55:31.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.94.83.164:47149] logged in with entity id 51698 at (-250.9676746283965, 55.0, 218.5)
+[19Dec2024 01:55:31.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:55:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roxanne711: Teleported drewfm236 to Roxanne711]
+[19Dec2024 01:56:01.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:56:01.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:57:04.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.202.147.227:56713] logged in with entity id 52802 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 01:57:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:57:34.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:57:34.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:57:42.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:38129] logged in with entity id 53089 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 01:57:42.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:58:12.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:58:12.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 01:58:58.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.155.43.219:40163] logged in with entity id 53712 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 01:58:58.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 01:59:28.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 01:59:28.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:03:12.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.82.134.92:39875] logged in with entity id 56347 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:03:12.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:03:42.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:03:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:05:04.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50557b3b[id=<null>,name=drewfm236,properties={},legacy=false] (/127.82.134.92:37921) lost connection: Disconnected
+[19Dec2024 02:05:16.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.92.89.157:58147] logged in with entity id 57558 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:05:16.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:05:46.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:05:46.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
+[19Dec2024 02:07:15.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: drewfm236[/127.176.224.54:41879] logged in with entity id 58979 at (-2100.5571832401965, 88.0, 1884.3371619424106)
+[19Dec2024 02:07:15.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 joined the game
+[19Dec2024 02:07:17.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Suit Up]
+[19Dec2024 02:07:45.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: drewfm236 lost connection: Timed out
+[19Dec2024 02:07:45.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: drewfm236 left the game
