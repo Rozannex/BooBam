@@ -51,14 +51,18 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-19 01:30:18 +0000",
       "minecraft:taiga": "2024-12-19 01:25:25 +0000",
+      "minecraft:bamboo_jungle": "2024-12-19 03:32:18 +0000",
       "minecraft:savanna_plateau": "2024-12-19 03:09:13 +0000",
       "minecraft:beach": "2024-12-19 01:26:42 +0000",
+      "minecraft:dark_forest": "2024-12-19 03:32:31 +0000",
       "minecraft:stony_peaks": "2024-12-19 03:08:54 +0000",
+      "minecraft:sparse_jungle": "2024-12-19 03:30:17 +0000",
       "minecraft:river": "2024-12-19 01:24:10 +0000",
       "minecraft:lukewarm_ocean": "2024-12-19 03:17:45 +0000",
       "minecraft:stony_shore": "2024-12-19 03:05:28 +0000",
       "minecraft:cold_ocean": "2024-12-19 01:26:47 +0000",
       "minecraft:forest": "2024-12-19 00:33:08 +0000",
+      "minecraft:jungle": "2024-12-19 03:30:29 +0000",
       "minecraft:ocean": "2024-12-19 03:05:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-19 01:30:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-19 03:18:46 +0000",
@@ -131,10 +135,15 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2024-12-19 03:36:01 +0000",
       "scrubland": "2024-12-19 03:08:49 +0000",
       "jade_cliffs": "2024-12-19 03:08:44 +0000",
+      "orchard": "2024-12-19 03:36:18 +0000",
       "coniferous_forest": "2024-12-19 02:58:48 +0000",
       "redwood_forest": "2024-12-19 03:03:12 +0000",
+      "volcano": "2024-12-19 03:34:25 +0000",
+      "volcanic_plains": "2024-12-19 03:33:16 +0000",
+      "grassland": "2024-12-19 03:32:45 +0000",
       "prairie": "2024-12-19 03:06:00 +0000",
       "gravel_beach": "2024-12-19 01:27:45 +0000"
     },
@@ -218,87 +227,15 @@
     },
     "done": false
   },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_pole": "2024-12-19 02:32:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/villager_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 03:11:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-19 02:42:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 02:45:26 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-19 03:21:31 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2024-12-19 02:45:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 02:45:17 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:tomahawk": {
-    "criteria": {
-      "has_tomahawk": "2024-12-19 02:52:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-19 02:36:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 02:45:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2024-12-19 03:12:02 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-19 02:31:05 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "spartanweaponry:root": {
     "criteria": {
-      "has_upgraded_grave_key": "2024-12-19 02:45:19 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 02:41:13 +0000"
+      "has_pole": "2024-12-19 02:32:26 +0000"
     },
     "done": true
   },
@@ -308,15 +245,81 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-19 02:36:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:41:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-19 02:41:13 +0000"
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 02:42:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:45:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:45:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-19 02:45:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-19 02:45:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 02:45:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:saber": {
     "criteria": {
       "has_saber": "2024-12-19 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:tomahawk": {
+    "criteria": {
+      "has_tomahawk": "2024-12-19 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/villager_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:11:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-19 03:12:02 +0000"
     },
     "done": true
   },
@@ -329,6 +332,12 @@
   "tombstone:adventure/find_ancient_tablet": {
     "criteria": {
       "has_ancient_tablet": "2024-12-19 03:12:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-19 03:21:31 +0000"
     },
     "done": true
   },
