@@ -184,6 +184,7 @@
       "minecraft:witch": "2024-12-18 04:14:29 +0000",
       "minecraft:cave_spider": "2024-12-17 21:09:52 +0000",
       "minecraft:zombie": "2024-12-17 20:32:33 +0000",
+      "quark:foxhound": "2024-12-19 03:21:46 +0000",
       "minecraft:zombie_villager": "2024-12-19 02:52:07 +0000"
     },
     "done": false
@@ -611,6 +612,12 @@
       "ancient_debris": "2024-12-19 03:08:53 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2024-12-19 03:21:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

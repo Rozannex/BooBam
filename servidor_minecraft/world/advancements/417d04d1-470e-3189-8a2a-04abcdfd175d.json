@@ -500,5 +500,11 @@
     },
     "done": false
   },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2024-12-19 03:19:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
