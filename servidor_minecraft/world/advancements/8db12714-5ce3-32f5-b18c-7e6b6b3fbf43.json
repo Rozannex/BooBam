@@ -117,6 +117,7 @@
       "overgrown_greens": "2024-12-17 20:34:20 +0000",
       "mediterranean_forest": "2024-12-17 22:02:28 +0000",
       "redwood_forest": "2024-12-17 22:45:30 +0000",
+      "dune_beach": "2024-12-19 02:37:38 +0000",
       "seasonal_forest": "2024-12-19 02:35:35 +0000",
       "volcano": "2024-12-17 22:16:06 +0000",
       "volcanic_plains": "2024-12-17 22:14:49 +0000",
@@ -182,7 +183,8 @@
       "minecraft:creeper": "2024-12-17 21:09:50 +0000",
       "minecraft:witch": "2024-12-18 04:14:29 +0000",
       "minecraft:cave_spider": "2024-12-17 21:09:52 +0000",
-      "minecraft:zombie": "2024-12-17 20:32:33 +0000"
+      "minecraft:zombie": "2024-12-17 20:32:33 +0000",
+      "minecraft:zombie_villager": "2024-12-19 02:52:07 +0000"
     },
     "done": false
   },

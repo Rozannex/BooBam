@@ -616,3 +616,93 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 02:38:03.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerfran lost connection: Disconnected
 [19Dec2024 02:38:03.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerfran left the game
 [19Dec2024 02:38:09.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 moved too quickly! -8556.02928709374,-109.92159999847412,18074.32962400546
+[19Dec2024 02:41:13.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Knowledge of Death]
+[19Dec2024 02:41:13.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Ashes 'n Bones]
+[19Dec2024 02:42:41.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Not Today, Thank You]
+[19Dec2024 02:42:53.156] [Server thread/WARN] [tombstone/]: The death event of the player Roxanne711 was canceled by another mod
+[19Dec2024 02:42:53.217] [Server thread/INFO] [tombstone/]: The player Roxanne711 has successfully been saved
+[19Dec2024 02:44:49.464] [Server thread/WARN] [tombstone/]: The death event of the player Duxaethera was canceled by another mod
+[19Dec2024 02:44:49.509] [Server thread/INFO] [tombstone/]: The player Duxaethera has successfully been saved
+[19Dec2024 02:44:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> XD
+[19Dec2024 02:45:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has reached the goal [Strong or Careful]
+[19Dec2024 02:45:17.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera burned to death
+[19Dec2024 02:45:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Your First Grave]
+[19Dec2024 02:45:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [The Most Useful Key]
+[19Dec2024 02:45:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has reached the goal [A Fast Comeback]
+[19Dec2024 02:46:07.791] [Server thread/WARN] [tombstone/]: The death event of the player st_Div was canceled by another mod
+[19Dec2024 02:46:07.853] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[19Dec2024 02:46:18.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: st_Div burned to death
+[19Dec2024 02:46:18.012] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for st_Div with unique ID travelersbackpack.iron_19.12.2024-02.46.18.dat
+[19Dec2024 02:46:18.017] [Server thread/INFO] [tombstone/]: The player st_Div has successfully been saved
+[19Dec2024 02:46:27.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3030ms or 60 ticks behind
+[19Dec2024 02:46:52.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19Dec2024 02:47:22.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[19Dec2024 02:47:43.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6617ms or 132 ticks behind
+[19Dec2024 02:48:02.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[19Dec2024 02:48:19.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[19Dec2024 02:49:13.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19Dec2024 02:50:24.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [Those Were the Days]
+[19Dec2024 02:50:52.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[19Dec2024 02:50:53.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Swashbuckler]
+[19Dec2024 02:52:22.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 02:52:24.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duxaethera has made the advancement [Burying the Hatchet]
+[19Dec2024 02:52:43.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 02:52:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZ
+[19Dec2024 02:52:47.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> ZZZZZZZZZZZZZZZ
+[19Dec2024 02:52:49.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZ
+[19Dec2024 02:52:50.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZZZZZZ
+[19Dec2024 02:52:52.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[19Dec2024 02:52:53.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZ
+[19Dec2024 02:52:53.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:52:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:52:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:52:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:52:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> zZzZzZzZ
+[19Dec2024 02:52:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:52:55.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:52:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:52:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZ
+[19Dec2024 02:52:56.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZ
+[19Dec2024 02:52:57.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <enderg39> .i.
+[19Dec2024 02:52:57.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> zzzzzzzzzzzzzzzzz
+[19Dec2024 02:52:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZ
+[19Dec2024 02:52:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:01.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[19Dec2024 02:53:01.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZ
+[19Dec2024 02:53:02.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> zzz
+[19Dec2024 02:53:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZ
+[19Dec2024 02:53:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZZZZZ
+[19Dec2024 02:53:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> comes
+[19Dec2024 02:53:05.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZ
+[19Dec2024 02:53:06.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:06.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:06.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:07.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:07.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:07.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> Z
+[19Dec2024 02:53:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> ZZZZZZZZZZZZZZZZZZZZ
+[19Dec2024 02:53:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roxanne711> zzzzzzzzzzzzzzzzzz
+[19Dec2024 02:53:54.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> DUX
+[19Dec2024 02:53:57.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19Dec2024 02:54:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> duxa
+[19Dec2024 02:54:19.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> dime
+[19Dec2024 02:54:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> llegate pa nuestra base pue
+[19Dec2024 02:54:29.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19Dec2024 02:54:42.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> coordenadas?
+[19Dec2024 02:54:56.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> md
+[19Dec2024 02:55:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Duxaethera> asi aprovecho de salir de las cuevas
+[19Dec2024 02:55:16.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Dec2024 02:55:17.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> trae redstone
+[19Dec2024 02:55:22.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <st_Div> la que puedas hermano
+[19Dec2024 02:55:41.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[19Dec2024 02:55:59.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 02:56:27.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Capybara_Zzz has made the advancement [War Pigs]
+[19Dec2024 02:57:16.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19Dec2024 02:57:34.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[19Dec2024 02:58:06.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Dec2024 02:58:26.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19Dec2024 02:59:45.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
