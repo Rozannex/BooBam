@@ -353,6 +353,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "canopy_planks": "2024-12-19 04:56:43 +0000",
       "canopy_sapling": "2024-12-19 04:09:00 +0000",
       "canopy_log": "2024-12-19 04:07:02 +0000"
     },
@@ -367,6 +368,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-19 04:28:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2024-12-19 05:01:28 +0000"
     },
     "done": true
   },
