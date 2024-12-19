@@ -586,3 +586,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 00:40:56.159] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ironchest:network,elevatorid:main_channel,waystones:network] rejected their client side version number
 [19Dec2024 00:40:56.160] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [19Dec2024 00:40:56.209] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@497d2065[id=<null>,name=st_Div,properties={},legacy=false] (/127.37.33.204:37149) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 00:41:16.549] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ironchest:network,elevatorid:main_channel,waystones:network] rejected their client side version number
+[19Dec2024 00:41:16.549] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 00:41:16.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d218f5[id=<null>,name=st_Div,properties={},legacy=false] (/127.37.33.204:42477) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 00:42:03.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 has made the advancement [Cover Me with Diamonds]
+[19Dec2024 00:42:45.205] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ironchest:network,elevatorid:main_channel,waystones:network] rejected their client side version number
+[19Dec2024 00:42:45.206] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 00:42:45.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7980403f[id=<null>,name=st_Div,properties={},legacy=false] (/127.37.33.204:38085) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 00:42:49.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roxanne711 lost connection: Disconnected
+[19Dec2024 00:42:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roxanne711 left the game
+[19Dec2024 00:42:53.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2024 00:42:53.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2024 00:42:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2024 00:42:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2024 00:42:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[19Dec2024 00:42:53.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19Dec2024 00:42:53.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2024 00:42:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2024 00:42:53.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2024 00:42:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19Dec2024 00:42:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19Dec2024 00:42:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2024 00:42:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2024 00:42:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2024 00:42:53.829] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Dec2024 00:42:53.832] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[19Dec2024 00:42:53.834] [Server thread/INFO] [Framework/]: Finished unloading server configs
